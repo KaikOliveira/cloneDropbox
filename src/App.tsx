@@ -5,7 +5,7 @@ import GlobalStyles from './styles/GlobalStyles';
 function App() {
   return (
     <>
-      <h1>Kaik</h1>
+      <h1>Kaik Oliveira</h1>
       <GlobalStyles />
     </>
   );
